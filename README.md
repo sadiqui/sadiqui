@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello!<br>😊 I'm doing web development,<br>Passionate about programming<br>and emerging technologies 💻⚙️
+👋 Hello!<br>😊 I'm doing web development,<br>Passionate about programming<br>and emerging technologies 💻
 
 
 ## 🌐 Socials:
