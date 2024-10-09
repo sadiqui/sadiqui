@@ -3,12 +3,22 @@
 ### <div align="center">I'm Abdelilah Sadiqui, a full-time full-stack developer 👨‍💻</div>  
 - 🔭 I’m currently working with Go
 - 🌱 I’m also learning Rust and Lua  
-- ❓ Ask me about anything related to JavaScript
-- ⚡ Fun fact: I prefer Gopher over Octocat, because Go's mascot is just too adorable to resist!  
+- ❓ Ask me about anything related to JS
+- ⚡ Fun fact: I prefer Gopher over Octocat
 
-<br/>  
+<div align="center">
+<a href="https://github.com/sadiqui" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sadiqui" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/abdo_sadiqui" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+</div>  
 
-## My Skill Set  
+## 💻 My Skills Set  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -63,29 +73,11 @@
 </td></tr></table>  
 <br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sadiqui" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/abdo_sadiqui" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sadiqui" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadiqui&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqui&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>  
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sadiqui&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sadiqui&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-<div align="center"></div>
-<br />
+[![](https://visitcount.itsvg.in/api?id=sadiqui&icon=7&color=7)](https://visitcount.itsvg.in)
