@@ -7,12 +7,6 @@
 - ❓ Ask me about anything related to JS
 - ⚡ Fun fact: I prefer Gopher over Octocat
 
-<div align="center">
-<a href="https://linkedin.com/in/a.sadiqui" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-
 ## 💻 My Skills Set
 <table><tr><td valign="top" width="33%">
 <div align="center">  
