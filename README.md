@@ -60,7 +60,8 @@
 <br/>  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadiqui&theme=highcontrast&hide_border=false)
+![Sadiqui's GitHub stats 1](https://github-readme-streak-stats.herokuapp.com/?user=sadiqui&theme=highcontrast&hide_border=false)
+![Sadiqui's GitHub stats 2](https://github-readme-stats.vercel.app/api?username=sadiqui&show_icons=true&theme=radical)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
