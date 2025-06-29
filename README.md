@@ -3,9 +3,9 @@
 ### <div align="center">I'm Abdelilah Sadiqui, a full-time full-stack developer 👨‍💻</div>  
 
 - 🔭 I’m currently working with Go
-- 🌱 I’m also learning Rust and Lua  
-- ❓ Ask me about anything related to JS
-- 😅 Fun fact: **Almost all my repos are private**
+- ❓ It's OK not to know everything
+- 🌱 I’m also learning Rust and Lua
+- 😅 **Nearly all my repos are private**
 
 ## 💻 My Skills Set
 
