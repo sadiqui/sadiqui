@@ -9,9 +9,9 @@
 
 ## 💻 My Skills Set
 
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,babel,bootstrap,c,cpp,cloudflare,dart,django,docker,dotnet,electron,emacs,express,figma,firebase,flask,flutter,git,githubactions,go,graphql,heroku,hibernate,htmx,ai,java,jenkins,jest,jquery,kotlin,kubernetes,laravel,latex,linux,lua,maven,mongodb,mysql,neovim,nextjs,nginx,nodejs,php,postgres,py,rails,react,redis,ruby,rust,sass,scala,solidity,tailwind,tensorflow,ts,vite,vue,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,babel,bootstrap,c,cpp,cloudflare,django,docker,electron,express,figma,firebase,flask,git,githubactions,go,graphql,heroku,hibernate,htmx,ai,java,jenkins,jest,jquery,kubernetes,laravel,latex,linux,lua,maven,mongodb,mysql,nextjs,nodejs,php,postgres,py,rails,react,redis,ruby,rust,sass,solidity,tailwind,tensorflow,ts,vite,vue,wordpress&perline=13)](https://skillicons.dev)
 
-🛠️ I listed 60 skills, not because I’ve mastered them all, but because I’ve googled each one at least once and I’m still stumbling forward, one bug at a time.
+🛠️ Not a full mastery, I’m still stumbling forward, One bug at a time 🐞
 
 ## 📊 GitHub Stats:
 
