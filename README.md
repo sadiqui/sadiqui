@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with Go
 - 🌱 I’m also learning Rust and Lua  
 - ❓ Ask me about anything related to JS
-- ⚡ Fun fact: I prefer Gopher over Octocat
+- 😅 Fun fact: **Almost all my repos are private**
 
 ## 💻 My Skills Set
 
