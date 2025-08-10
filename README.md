@@ -2,10 +2,10 @@
 
 ### <div align="center">I'm Abdelilah Sadiqui, a full-time full-stack developer 👨‍💻</div>  
 
-- 🔭 I’m currently working with Go
+- 🔭 I’m currently working with Js
 - ❓ It's OK not to know everything
-- 🌱 I’m also learning Rust and Lua
-- 😅 **Nearly all my repos are private**
+- 🌱 I’m also learning Rust and Java
+- 😅 **Majority of my repos are private**
 
 ## 💻 My Skills Set
 
@@ -15,8 +15,9 @@
 
 ## 📊 GitHub Stats:
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqui&theme=material-palenight&hide_border=false" alt="sadiqui" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sadiqui&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="sadiqui" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqui&theme=highcontrast&hide_border=false" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sadiqui&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="sadiqui" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqui&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 
 # ✍️ Random Dev Quote
 
