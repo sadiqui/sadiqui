@@ -2,14 +2,14 @@
 
 ### <div align="center">I'm Abdelilah Sadiqui, a full-time full-stack developer 👨‍💻</div>  
 
-- 🔭 I’m currently working with Js
+- 🔭 I’m currently working with JS
 - ❓ It's OK not to know everything
 - 🌱 I’m also learning Rust and Java
 - 😅 **Majority of my repos are private**
 
 ## 💻 My Skills Set
 
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,babel,bootstrap,c,cpp,cloudflare,django,docker,electron,express,figma,firebase,flask,git,githubactions,go,graphql,heroku,hibernate,htmx,ai,java,jenkins,jest,jquery,kubernetes,laravel,latex,linux,lua,maven,mongodb,mysql,nextjs,nodejs,php,postgres,py,rails,react,redis,ruby,rust,sass,solidity,tailwind,tensorflow,ts,vite,vue,wordpress&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,c,cpp,django,docker,express,figma,flask,git,githubactions,go,graphql,htmx,java,jest,kubernetes,laravel,latex,linux,lua,maven,mongodb,mysql,nextjs,nodejs,php,postgres,py,rails,react,rust,sass,tailwind,ts,vite,vue,wordpress&perline=13)](https://skillicons.dev)
 
 🛠️ Not a full mastery, I’m still stumbling forward, One bug at a time 🐞
 
